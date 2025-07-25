@@ -1,5 +1,5 @@
 # Chechkers game
-A python checkers game implemented by pygame library.
+A Python checkers game implemented by Pygame library, introducing player-vs-player checkers games.
 
 ## Pre-requisites
 Python pygame library
